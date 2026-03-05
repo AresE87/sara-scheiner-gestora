@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sara-landing",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\AresE\\Documents\\sara\\server.js"],
+      "port": 3001
+    }
+  ]
+}
